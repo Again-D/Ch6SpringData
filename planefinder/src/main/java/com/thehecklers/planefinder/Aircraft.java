@@ -36,8 +36,8 @@ public class Aircraft {
     @JsonProperty("polar_bearing")
     private double polarBearing;
 
-    @JsonProperty("is_absb")
-    private boolean isAbsb;
+    @JsonProperty("is_adsb")
+    private boolean isAdsb;
     @JsonProperty("is_on_ground")
     private boolean isOnGround;
 
