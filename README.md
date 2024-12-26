@@ -1,7 +1,6 @@
 사용한 Dependencies
 ## sburredis
 - Spring Reactive Web
-- Spring JPA
 - LomBok
 - Spring Data Redis
 
