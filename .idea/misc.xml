@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/planefinder" />
+    <file type="web" url="file://$PROJECT_DIR$/sburjpa" />
     <file type="web" url="file://$PROJECT_DIR$/sburredis" />
   </component>
   <component name="ProjectRootManager">
