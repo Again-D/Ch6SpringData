@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CH6_spring_data.iml" filepath="$PROJECT_DIR$/CH6_spring_data.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/planefinder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planefinder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbur-mongo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sbur-mongo.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sburredis.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sburredis.main.iml" />
     </modules>
   </component>
