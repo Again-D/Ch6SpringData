@@ -11,6 +11,22 @@
 - Spring Data JPA
 - H2 Database
 
+## sburjpa
+- Lombok
+- Spring Reactive Web
+- Spring Data JPA
+- MySQL Driver
+- JDBC API
+
+## sbur-mongo
+- Lombok
+- Spring Reactive Web
+- Spring Data MongoDB
+
+## sbur-neo4j
+- Spring Reactive Web
+- Spring Data Neo4j
+
 https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/docker/
 도커 (Docker) 프로그램을 사용한 Redis 
 
